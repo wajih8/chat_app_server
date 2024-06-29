@@ -33,3 +33,5 @@ hosting server for login verefication and api chat
    ```sh
    python ./requirment.py
    ```
+# usage
+
