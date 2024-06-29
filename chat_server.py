@@ -66,7 +66,7 @@ def start():
 
 
 print("[server is starting]")
-for i in tqdm(range(10)):
+for i in tqdm(range(100)):
     time.sleep(0.1)
 os.system("cls")
 

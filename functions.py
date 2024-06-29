@@ -1,7 +1,7 @@
 from json import loads, dumps
 import sqlite3 as sql
 import datetime
-s
+
 
 def cryptage(uid, user):
     da = str(datetime.datetime.now())[:10]
