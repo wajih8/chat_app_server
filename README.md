@@ -34,4 +34,19 @@ hosting server for login verefication and api chat
    python ./requirment.py
    ```
 # usage
+**open 2 terminal** ![screenshot](https://github.com/wajih8/chat_app_server/blob/main/pics/terminal.png)
+<br>
+* for each one run this commands
+1.to host the api:
+  ```sh
+  node .
+  ```
+  ![screenshot](https://github.com/wajih8/chat_app_server/blob/main/pics/node.png)
+2.to host the login server  :
+  ```sh
+  python ./chat_server.py
+  ```
+  ![screenshot](https://github.com/wajih8/chat_app_server/blob/main/pics/server.png)
+  
+
 
