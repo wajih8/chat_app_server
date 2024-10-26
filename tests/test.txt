@@ -1,0 +1,4 @@
+wajih
+wajih45
+
+SELECT idsender,idChat,message,dates,unid FROM messages m,users u WHERE("idChat"=1 AND m.idsender=u.id) ORDER BY dates DESC LIMIT 500
