@@ -1,3 +1,0 @@
-wajih
-wajih45
-SELECT * from coockie WHERE value like ""
